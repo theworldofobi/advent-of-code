@@ -56,3 +56,5 @@ pt2 = find_added_fuel_reqs(numbers)
 
 print("The answer to part 1 is", pt1)
 print("The answer to part 2 is", pt2)
+
+numbers.close()
